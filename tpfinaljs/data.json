@@ -1,0 +1,20 @@
+[
+  { "id": 1, "nombre": "Canelones Tuco", "precio": 4000 },
+  { "id": 2, "nombre": "Canelones Crema", "precio": 5000 },
+  { "id": 3, "nombre": "Canelones Mixtos", "precio": 4800 },
+  { "id": 4, "nombre": "Lasaña Napoli", "precio": 5000 },
+  { "id": 5, "nombre": "Ñoquis Tuco", "precio": 3500 },
+  { "id": 6, "nombre": "Ñoquis Crema", "precio": 4500 },
+  { "id": 7, "nombre": "Ñoquis Mixtos", "precio": 4300 },
+  { "id": 8, "nombre": "Ravioles Tuco", "precio": 4000 },
+  { "id": 9, "nombre": "Ravioles Crema", "precio": 5000 },
+  { "id": 10, "nombre": "Ravioles Mixtos", "precio": 4800 },
+  { "id": 11, "nombre": "Sorrentinos Tuco", "precio": 4000 },
+  { "id": 12, "nombre": "Sorrentinos Crema", "precio": 5000 },
+  { "id": 13, "nombre": "Sorrentinos Mixtos", "precio": 4800 },
+  { "id": 14, "nombre": "Tallarines Tuco", "precio": 3500 },
+  { "id": 15, "nombre": "Tallarines Crema", "precio": 4500 },
+  { "id": 16, "nombre": "Tallarines Mixtos", "precio": 4300 },
+  { "id": 17, "nombre": "Estofado De Carne", "precio": 2800 },
+  { "id": 18, "nombre": "Estofado De Pollo", "precio": 3500 }
+]
